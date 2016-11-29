@@ -1,0 +1,26 @@
+{
+  "name": "tcp-chat-server",
+  "version": "1.0.0",
+  "description": "Writing TCP Chat Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broxsonl/tcp-chat-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broxsonl/tcp-chat-server/issues"
+  },
+  "homepage": "https://github.com/broxsonl/tcp-chat-server#readme",
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  },
+  "dependencies": {
+    "uuid": "^3.0.0"
+  }
+}
